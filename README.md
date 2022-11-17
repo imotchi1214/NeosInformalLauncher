@@ -40,14 +40,18 @@ NeosVR用の非公式ランチャーです。
 
 ## ⬇アプリケーションの入手
 
-　最新版は[こちら](https://github.com/imotchi1214/NeosVRHeadlessClientControl/releases)からダウンロードできます。
+　最新版は[こちら](https://github.com/imotchi1214/NeosInformalLauncher/releases)からダウンロードできます。
 
 　 NHCCのリリースページに飛びますが、正しいのでご安心ください。  
   「NHCC.zip」をダウンロードし、任意の場所で展開し、「NeosInformalLauncher.exe」を起動してください。  
   　
 <br>
 <br>
+## 🔎インストール方法やその他操作方法など
 
+　こちらの[Wiki](https://github.com/imotchi1214/NeosInformalLauncher/wiki)をご確認ください。
+<br>
+<br>
 ## 🐞バグ・要望
 
 　バグや要望は[こちら](https://github.com/imotchi1214/NeosInformalLauncher/issues)からお気軽にどうぞ。
